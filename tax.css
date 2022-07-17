@@ -1,0 +1,35 @@
+body{
+    margin: 70px;
+    max-width: 500px;
+}
+
+
+#Tcost{
+    background-color: #C0C0C0;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 40px;
+    position: relative; 
+    
+}
+
+.button{
+    display: inline-block;
+    /* margin-left: 20px; */
+    text-align: center;
+}
+
+.amnt{
+    background-color: 	#0000FF;
+    border: none;
+    margin-left: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+#solve{
+    margin-top: 10px;
+}
